@@ -1,0 +1,14 @@
+D:\Rider\University projects\AP_Sem_2\Lab1\Lab1\obj\Debug\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider\University projects\AP_Sem_2\Lab1\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfoInputs.cache
+D:\Rider\University projects\AP_Sem_2\Lab1\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfo.cs
+D:\Rider\University projects\AP_Sem_2\Lab1\Lab1\obj\Debug\net8.0\Lab1.csproj.CoreCompileInputs.cache
+D:\Rider\University projects\AP_Sem_2\Lab1\Lab1\bin\Debug\net8.0\Lab1.exe
+D:\Rider\University projects\AP_Sem_2\Lab1\Lab1\bin\Debug\net8.0\Lab1.deps.json
+D:\Rider\University projects\AP_Sem_2\Lab1\Lab1\bin\Debug\net8.0\Lab1.runtimeconfig.json
+D:\Rider\University projects\AP_Sem_2\Lab1\Lab1\bin\Debug\net8.0\Lab1.dll
+D:\Rider\University projects\AP_Sem_2\Lab1\Lab1\bin\Debug\net8.0\Lab1.pdb
+D:\Rider\University projects\AP_Sem_2\Lab1\Lab1\obj\Debug\net8.0\Lab1.dll
+D:\Rider\University projects\AP_Sem_2\Lab1\Lab1\obj\Debug\net8.0\refint\Lab1.dll
+D:\Rider\University projects\AP_Sem_2\Lab1\Lab1\obj\Debug\net8.0\Lab1.pdb
+D:\Rider\University projects\AP_Sem_2\Lab1\Lab1\obj\Debug\net8.0\Lab1.genruntimeconfig.cache
+D:\Rider\University projects\AP_Sem_2\Lab1\Lab1\obj\Debug\net8.0\ref\Lab1.dll
