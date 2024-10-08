@@ -1,12 +1,16 @@
-﻿namespace Lab1
+﻿using System.Runtime.InteropServices;
+
+namespace Lab1
 {
     class Program
     {
-        private const int ChunkSize = 300 * 1024 * 1024;
+        private const int ChunkSize = 100 * 1024 * 1024;
         private const int AverageNumberSize = 11;
 
         static void Main(string[] args)
         {
+            MemoryController.LimitMemoryUsage(512);
+            
             string inputFile = "unsorted_numbers.txt";
             string outputFile = "sorted_numbers.txt";
 
